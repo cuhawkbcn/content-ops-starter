@@ -16,7 +16,7 @@ If you click "Deploy to Netlify" button, it will create a new repo for you that 
 
 The typical development process is to begin by working locally. Clone this repository, then run `npm install` in its root directory.
 
-Run the Next.js development server:
+Run the Next.js development server:m
 
 ```txt
 cd content-ops-starter
