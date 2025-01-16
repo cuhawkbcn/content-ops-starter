@@ -40,7 +40,7 @@ sections:
       label: This is a badge
       color: text-primary
       type: Badge
-    elementId: ''
+    elementId: cx
     colors: bg-light-fg-dark
     styles:
       self:
